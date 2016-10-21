@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="cpay" version="0.1.0">
+  <name>cpay</name>
+  <description>
+    connect payments
+  </description>
+  <author email="bnawalage@gmail.com">
+    Bhaddhika Nawalage
+  </author>
+</widget>
